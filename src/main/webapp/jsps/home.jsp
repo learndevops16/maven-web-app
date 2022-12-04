@@ -4,8 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>RPK solutions- Home Page</title>
+<!--	
 <link href="images/mithunlogo.jpg" rel="icon">
+-->
 </head>
 </head>
 <body>
